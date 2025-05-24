@@ -187,7 +187,7 @@ systemctl status vpn-bot
 
 ## Requirements
 
-Lihat file [requirements.txt](requirements.txt) berikut.
+Lihat file [requirements.txt]([requirements.txt](https://github.com/MikkuChan/vpn-bot/blob/main/requirements.txt)) berikut.
 
 ---
 
